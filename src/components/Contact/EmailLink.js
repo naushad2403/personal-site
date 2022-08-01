@@ -78,13 +78,13 @@ const EmailLink = ({ loopMessage }) => {
   return (
     <div
       className="inline-container"
-      style={validateText(message) ? {} : { color: 'red' }}
+      style={validateText(message) ? {} : { color: "red" }}
       onMouseEnter={() => setIsActive(false)}
-      onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
+      onMouseLeave={() => idx < messages.length && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
+      <a href={validateText(message) ? `mailto:${message}@naushad.pro` : ""}>
         <span>{message}</span>
-        <span>@mldangelo.com</span>
+        <span>@naushad.pro</span>
       </a>
     </div>
   );

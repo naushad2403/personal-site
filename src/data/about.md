@@ -1,7 +1,11 @@
 
 # Intro
 
-I am the VP of Engineering at Smile Identity, where I work on tools that have helped over 60,000,000 people in Africa gain access to financial services. Before Smile, I was the co-founder & CTO of [Arthena](https://arthena.com) and a co-founder of [Matroid](https://matroid.com). In my spare time, I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+I am a software engineer at [Mobile Programming](https://www.mobileprogramming.com/) where I build REST API to store and analyse Adidas business data quickly, accurately, and at scale. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+
+# Currently
+
+At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
 
 # Some history
 

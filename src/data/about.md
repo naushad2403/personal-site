@@ -1,45 +1,17 @@
 
 # Intro
 
-I am a software engineer at [Mobile Programming](https://www.mobileprogramming.com/) where I build REST API to store and analyse Adidas business data quickly, accurately, and at scale. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a software engineer at [Mobile Programming](https://www.mobileprogramming.com/). I have been outsourced to [Eclerx](https://eclerx.com/) where I build Backend application to store and analyse Adidas business data accurately and quickly. My primary job is to optimise the architecture design and  DB queries to reduce the response time. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+At Eclerx, I have learned how to build backend application, teams, manage people, develop relationships with team,with technologies like [NodeJS](https://nodejs.org/en/), [ReactJS](https://reactjs.org/). I primarily work as a Backend engineer but have broad experience across Market360 Adidas stack.
 
 # Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- My parents and I were not much aware about Computer science even when I was 18, As per my friends computer science engineering was something which could make richer as Mark zukerberg so I was successful in convincing by family to get me admitted into 4 years course of computer science engineering.
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
-
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-
-- At 18, In the summer before college, my friends and I started playing [Muggle Quidditch](https://en.wikipedia.org/wiki/Quidditch_(sport)). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
-
-Ask me in person for other stories that I'm afraid to share with the internet.
+- When I was 21, I completed my graduation and got an internship role in [Chicmic](https://www.chicmic.in/). I worked   with Javascript and c++ with gaming engines [Cocos](https://www.cocos.com/) [Unity](https://unity.com/) for the first 6 month of my internship where I worked on many interesting games [Ludo Game](https://play.google.com/store/apps/details?id=com.nazara.chicmic.ludo&hl=en_IN&gl=US), [The humble miner](https://play.google.com/store/apps/details?id=com.thehumbleminer.game&hl=en_IN&gl=US) [Witchland bubble shooter](https://play.google.com/store/apps/details?id=com.qwertygames.witchland&hl=en_IN&gl=US).
 
 # I like
 
@@ -48,11 +20,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Sailing and the sea
 - Space
 - Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
 
 # Travel / Geography
 

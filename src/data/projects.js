@@ -12,7 +12,7 @@ const data = [
   {
     title: "Meerkat Mining",
     subtitle: "Meerkat Mining is an online DApp gold mining strategy game",
-    url: "meerkatmining.io",
+    link: "meerkatmining.io",
     image: "/images/projects/meerkatmining.jpg",
     date: "2022-03-30",
     desc: "Meerkat Mining is an online DApp gold mining strategy game, where the game is played and prizes are paid in Tron (TRX).  The players with the best strategies (and some luck) will win the most gold and collectibles.  ",

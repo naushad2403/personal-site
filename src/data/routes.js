@@ -4,10 +4,10 @@ const routes = [
     label: "Naushad Ali",
     path: "/",
   },
-  {
-    label: "About",
-    path: "/about",
-  },
+  // {
+  //   label: "About", // TODO Uncomment it to enable about
+  //   path: "/about",
+  // },
   {
     label: "Resume",
     path: "/resume",

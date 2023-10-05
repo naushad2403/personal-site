@@ -32,6 +32,43 @@ const work = [
       'Mentored junior developers and facilitated effective communication and collaboration using Slack, Skype, Microsoft Teams, Confluence, Jira, and Git, resulting in a 25% increase in team productivity'
     ],
   },
+  {
+    name: 'Chicmic',
+    position: 'Full Stack Engineer',
+    url: 'https://www.chicmic.in/',
+    startDate: '2018-01-08',
+    summary: `During my tenure at ChicMic, which I joined after being placed through campus recruitment,
+    I had the opportunity to gain extensive knowledge and practical experience in
+     various key technologies and
+    collaborate with a global team. I acquired proficiency in a wide range of technologies,
+     including JavaScript, Node.js,
+     MongoDB, SQL, TypeScript, AWS (EC2, S3, Lambda, API Gateway), and Docker. 
+     This allowed me to work on diverse projects and adapt to various development environments.
+    Working in a global setting, I collaborated closely with colleagues and
+    teams from different parts of the world.
+     This experience not only expanded my cultural awareness but
+    also improved my ability to work effectively in cross-functional and cross-cultural teams.
+    I had the privilege of mentoring and training interns, 
+    helping them acquire the necessary skills and knowledge to contribute effectively to our projects. 
+    This experience allowed me to further enhance my communication and leadership skills.
+    I actively contributed to numerous projects within the company,
+    applying my technical skills to develop solutions, troubleshoot issues, 
+    and optimize existing systems. These experiences helped me gain hands-on experience and 
+    improve my problem-solving abilities.
+    Overall, my time at ChicMic was a valuable learning experience that 
+    not only expanded my technical skill set
+    but also honed my ability to work in a global, collaborative environment.
+    I am grateful for the opportunities and challenges I encountered,
+    which have significantly contributed to my professional growth and development.`,
+
+    highlights: [
+      'Managed hybrid work environment, excelling in remote and office settings',
+      'Mastered JavaScript, Node.js, ReactJS, and TypeScript for web development',
+      'Mentored and upskilled team members, in a collaborative atmosphere',
+      'Led development of revenue-generating applications for thousands of users',
+      'Collaborated cross-functionally, aligning business goals with technical solution'
+    ],
+  },
 ];
 
 export default work;
